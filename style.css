@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: #b0eb7a;
+    font-family: 'Fira Sans', sans-serif;
+    height: 100%;
+}
+
+.middle {
+    margin: 0 auto;
+    color: #2A6041;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+.bookmarks {
+    color: #28965A;
+    font-size: 30px;
+
+}
+
+
+
+#clock {
+    text-align: right;
+    margin: 580px 0px;
+    font-size: 30px;
+    color: #2A6041;
+}

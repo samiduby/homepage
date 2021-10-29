@@ -15,18 +15,27 @@ body {
     font-size: 35px;
 }
 
-
-a {
-    color: #28965A;
-    font-size: 30px;
-    padding: 5px;
-}
-
-
-
 #clock {
     text-align: right;
-    margin: 580px 0px;
+    margin: 550px 0px;
     font-size: 30px;
     color: #2A6041;
 }
+
+
+
+.bookmarks{
+    padding:30px;
+ }
+ .bookmarks a{
+    font-size:30px;
+    margin:0 20px;
+    color:#28965A;
+    transition:.25s;
+    vertical-align: top;
+ }
+ .bookmarks a:hover{
+    font-size:40px;
+    position:relative;
+ }
+ 

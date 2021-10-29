@@ -22,7 +22,17 @@ body {
     color: #2A6041;
 }
 
+.bar{
+    height: 30px;
+    width: 200px;
+    
+}
 
+.button {
+    height: 36px;
+   
+    
+}
 
 .bookmarks{
     padding:30px;
